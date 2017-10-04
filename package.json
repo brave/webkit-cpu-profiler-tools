@@ -4,7 +4,7 @@
   "description": "tools for working with webkit cpu profiler data",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "summary": "node summary.js"
   },
   "author": "",
   "license": "MPL-2.0"
